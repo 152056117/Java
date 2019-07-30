@@ -1,4 +1,4 @@
-hello
+
 A:快捷键
 	Ctrl+A	全选
 	Ctrl+C	复制
